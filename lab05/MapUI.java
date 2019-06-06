@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.io.*; 
 import java.applet.*; 
 import java.net.*;
-iimport javax.swing.text.*; 
+import javax.swing.text.*; 
 import javax.swing.border.*; 
 import javax.swing.colorchooser.*; 
 import javax.swing.filechooser.*; 
